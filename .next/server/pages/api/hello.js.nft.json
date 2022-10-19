@@ -1,9 +1,9 @@
 {
   "version": 1,
   "files": [
-    "../../webpack-api-runtime.js",
-    "../../../package.json",
+    "../../../../data.json",
     "../../../../package.json",
-    "../../../../data.json"
+    "../../../package.json",
+    "../../webpack-api-runtime.js"
   ]
 }
