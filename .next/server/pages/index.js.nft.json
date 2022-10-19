@@ -11,6 +11,8 @@
     "../../../node_modules/react/package.json",
     "../../../package.json",
     "../../package.json",
-    "../webpack-runtime.js"
+    "../webpack-runtime.js.map",
+    "../webpack-runtime.js",
+    "index.js.map"
   ]
 }
